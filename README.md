@@ -7,11 +7,12 @@ A Chrome extension that uses AI to customize the appearance of any web page.
 
 ## Screenshots
 
-![Popup Interface](screenshots/popup.png)
 Just tell Page Magic what you want to change and it will do it for you.
+![Popup Interface](screenshots/popup.png)
 
-![Settings Panel](screenshots/settings.png)
+
 Add your Anthropic API key to get started, select the model you want to use, and see your API usage cost.
+![Settings Page](screenshots/settings.png)
 
 ## Installation
 

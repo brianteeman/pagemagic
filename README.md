@@ -38,6 +38,10 @@ You will need node.js installed to build the extension.
 
 Your changes are applied in an additive manner, so you can apply multiple changes to the same page. You can also disable/enable any single change, or delete all changes.
 
+## Privacy
+
+See our [Privacy Policy](PRIVACY.md) for information about how Page Magic handles your data.
+
 ## License
 
 BSD-3-Clause

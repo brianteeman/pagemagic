@@ -1,6 +1,8 @@
-# Page Magic
+# <img src="icons/icon48.png" align="center"> Page Magic
 
-A Chrome extension that uses AI to customize the appearance of any web page.
+Page Magic is a Chrome extension that uses AI to customize the appearance of any web page.
+
+<img src="https://fonts.gstatic.com/s/i/productlogos/chrome_store/v7/192px.svg" width="16"> **NEW:** The extension is now available in the Chrome Web Store! Download it [here](https://chromewebstore.google.com/detail/cjcophpmhmboigjcoobdnmeoadfiibjk).
 
 > [!NOTE]
 > Bring Your Own API Key (BYOK): Page Magic uses the Anthropic API to do all the magic. You will need to provide your own API key to get started.
@@ -14,9 +16,9 @@ Just tell Page Magic what you want to change and it will do it for you.
 Add your Anthropic API key to get started, select the model you want to use, and see your API usage cost.
 ![Settings Page](screenshots/settings.png)
 
-## Installation
+## Build and Install
 
-You will need node.js installed to build the extension.
+If you want to build and install the extension yourself, you will need node.js installed.
 
 1. Clone the repository
 2. Run `npm install` to install the dependencies
